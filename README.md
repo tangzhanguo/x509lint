@@ -1,4 +1,4 @@
-This is base on kroeckx/x509lint
+This is based on kroeckx/x509lint
 
 # x509lint
 Tool to check X509 certificates and key
